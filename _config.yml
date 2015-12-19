@@ -2,12 +2,13 @@ name: Robots4Life
 favicon: null
 layout_spectrum: 0.5837108113337308
 typography_spectrum: 0.2572180638089776
+title: 'Technology for humanity '
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-71574377-1
   facebook: null
   twitter: null
 opengraph:
